@@ -18,9 +18,5 @@ git pull --prune
 git checkout <feature_branch>
 ```
 
-1.
-
 ## Impacted Areas in Application
 List general components of the application that this PR will affect:
-
-*
